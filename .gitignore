@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible">
+	<title>网页名字</title>
+</head>
+<style>.k{float: left}
+.l{float: right}</style>
+<body><div class="l"><img src="323224.jpg" width="600" ></div>
+<div class="k"><img src="e:\a\图片.jpg" width="500"></div>
+<hr width="1200">
+</body>
+</html>
